@@ -26,7 +26,7 @@
     "eslint-plugin-react": "^7.34.2",
     "globals": "^15.6.0",
     "prettier": "^3.2.5",
-    "typescript-eslint": "^7.13.1"
+    "typescript-eslint": "^7.14.1"
   },
   "dependencies": {
     "board-game-card-gen": "git+https://github.com/monday-sun/board-game-asset-pipeline#main",
